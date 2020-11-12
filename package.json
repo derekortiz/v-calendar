@@ -44,6 +44,8 @@
   },
   "dependencies": {
     "date-fns": "^2.6.0",
+    "eslint": "^7.13.0",
+    "eslint-plugin-vue": "^7.1.0",
     "lodash": "^4.17.15",
     "popper.js": "^1.14.7"
   },
@@ -70,7 +72,7 @@
   },
   "browserslist": [
     ">1%",
-    "not ie 11",
+    "ie 11",
     "not op_mini all"
   ]
 }
